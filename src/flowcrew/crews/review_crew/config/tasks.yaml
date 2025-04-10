@@ -1,0 +1,7 @@
+review_story:
+  description: >
+    Analyze the short story: '{story}'.
+    Evaluate its clarity, engagement level, and adherence to the original idea (if provided implicitly).
+    Provide concise feedback.
+  expected_output: >
+    A brief review (1-2 sentences) highlighting the story's strengths and suggesting one area for potential improvement.

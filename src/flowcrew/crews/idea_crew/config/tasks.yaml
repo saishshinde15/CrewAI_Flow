@@ -1,0 +1,9 @@
+generate_idea:
+  description: >
+    Develop a creative story idea based on the provided theme: '{theme}'.
+    Focus on creating a unique protagonist, an interesting setting, and a clear conflict.
+  expected_output: >
+    A concise description of a story idea, including:
+    - Protagonist: [Name and brief description]
+    - Setting: [Location and time period]
+    - Conflict: [The main challenge or problem]

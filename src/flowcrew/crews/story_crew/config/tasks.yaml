@@ -1,0 +1,8 @@
+write_story:
+  description: >
+    Craft a short story based on the following idea: '{story_idea}'.
+    Ensure the story is engaging, well-paced, and approximately 200-300 words long.
+    Bring the characters and setting to life.
+  expected_output: >
+    A complete short story of 200-300 words, realizing the potential of the provided story idea.
+    The story should have a clear beginning, middle, and end (even if simple).
